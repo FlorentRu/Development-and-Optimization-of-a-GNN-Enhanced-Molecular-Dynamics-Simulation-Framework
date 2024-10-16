@@ -5,7 +5,7 @@ The goal is to develop a framework that integrates Graph Neural Networks to pred
 ## Installation
 
 - Prerequisites
-- Python 3.11+
+- Python 3.12.4
 - NVIDIA GPU with CUDA support (for GPU acceleration)
 - Conda (recommended for environment management)
 
