@@ -137,6 +137,18 @@ Future steps include:
 - Implementing parallelism strategies.
 - Optimizing GPU utilization.
 
+## Key Papers:
 
+Gilmer, J., Schoenholz, S. S., Riley, P. F., Vinyals, O., & Dahl, G. E. (2017). "Neural Message Passing for Quantum Chemistry." Proceedings of the 34th International Conference on Machine Learning (ICML).
+Schütt, K. T., Kindermans, P.-J., Felix, H. E. S., Chmiela, S., Tkatchenko, A., & Müller, K.-R. (2017). "SchNet: A continuous-filter convolutional neural network for modeling quantum interactions." Advances in Neural Information Processing Systems (NeurIPS).
 
+### Books:
+
+Hamilton, W. L. (2020). Graph Representation Learning. Morgan & Claypool Publishers.
+
+### Online Resources:
+
+PyTorch Geometric Documentation: PyTorch Geometric
+DeepChem Library: DeepChem
+Tutorials on GNNs: Stanford University's CS224W course materials on machine learning with graphs.
 
