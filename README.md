@@ -50,3 +50,26 @@ Implement parallelism strategies and GPU acceleration.
 
 Validate simulation results against benchmarks.
 Analyze performance improvements and accuracy.
+
+# Features
+
+## Graph Neural Network Implementation:
+
+- Customizable GNN architecture using PyTorch Geometric.
+- Predicts molecular energies and interatomic forces.
+
+## Integration with OpenMM:
+
+- Seamless integration of the GNN model into MD simulations.
+- Supports custom force calculations during simulations.
+
+## Performance Optimization:
+
+- Utilizes GPU acceleration and parallel computing.
+- Optimized for large-scale simulations.
+
+## Comprehensive Documentation:
+
+- Detailed instructions and explanations.
+- Includes examples and tutorials.
+
