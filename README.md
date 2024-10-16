@@ -18,3 +18,7 @@ This repository contains code and resources for developing a Graph Neural Networ
 - Contributing
 - License
 - References
+
+# Introduction
+
+Traditional molecular dynamics simulations rely on predefined force fields, which may not capture all the quantum mechanical effects necessary for accurate modeling of complex molecular systems. By leveraging GNNs, we aim to learn interatomic potentials directly from quantum mechanical data, enabling simulations that are both accurate and computationally efficient.
