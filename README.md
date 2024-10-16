@@ -30,12 +30,12 @@ This project is divided into multiple parts:
 
 - Collect and preprocess molecular data using the QM9 dataset.
 - Implement a GNN model to predict molecular energies.
-- 
+  
 ## 2. Extending the Model to Predict Forces
 
 - Modify the GNN to predict interatomic forces.
 - Train the model on appropriate datasets.
-- 
+  
 ## 3. Integration with OpenMM
 
 Develop a custom force provider in OpenMM using the trained GNN.
