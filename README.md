@@ -103,25 +103,25 @@ Analyze performance improvements and accuracy.
 
 ## Dataset Splitting
 
-# Model Architecture
+## Model Architecture
 
-## MPNN Model Implementation
+### MPNN Model Implementation
 
 - Node and Edge Embeddings
 - Message Passing Layers
 - Update Functions
 - Readout Layer
 
-# Training the Model
+## Training the Model
 
-## Setup
-## Training loop
+### Setup
+### Training loop
 
-# Results
-## Training and Validation Loss Curves
-## Model Evaluation on Test Set
+## Results
+### Training and Validation Loss Curves
+### Model Evaluation on Test Set
 
-# Integration with OpenMM
+## Integration with OpenMM
 
 In the next phase, we will:
 
@@ -129,7 +129,7 @@ In the next phase, we will:
 - Develop a custom force provider in OpenMM.
 - Run MD simulations using the GNN-based force field
 
-# Performance Optimization
+## Performance Optimization
 
 Future steps include:
 
