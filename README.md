@@ -81,3 +81,20 @@ Analyze performance improvements and accuracy.
 - Detailed instructions and explanations.
 - Includes examples and tutorials.
 
+## Install Dependencies
+
+- PyTorch and CUDA
+#### conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+
+## PyTorch Geometric and Related Libraries
+
+#### conda install pyg -c pyg -c conda-forge
+
+- RDKit
+#### conda install -c conda-forge rdkit
+
+- OpenMM
+#### conda install -c conda-forge openmm
+
+
+
