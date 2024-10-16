@@ -2,6 +2,14 @@
 
 The goal is to develop a framework that integrates Graph Neural Networks to predict interatomic forces in molecular systems, thereby accelerating Molecular Dynamics simulations without compromising accuracy. This repository contains code and resources for developing a Graph Neural Network (GNN) enhanced Molecular Dynamics (MD) simulation framework using PyTorch and OpenMM. In this project we will integrate machine learning models into MD simulations to predict interatomic forces and potential energies more accurately and efficiently.
 
+## Installation
+
+Prerequisites
+Python 3.11+
+NVIDIA GPU with CUDA support (for GPU acceleration)
+Conda (recommended for environment management)
+
+
 ## Table of Contents:
 
 - Introduction
