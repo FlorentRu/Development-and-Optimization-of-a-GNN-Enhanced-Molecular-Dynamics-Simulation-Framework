@@ -96,5 +96,47 @@ Analyze performance improvements and accuracy.
 - OpenMM
 #### conda install -c conda-forge openmm
 
+## Data Preprocessing
+
+- One-Hot Encoding of Atomic Numbers
+- Calculation of Edge Attributes (Interatomic Distances)
+
+## Dataset Splitting
+
+# Model Architecture
+
+## MPNN Model Implementation
+
+- Node and Edge Embeddings
+- Message Passing Layers
+- Update Functions
+- Readout Layer
+
+# Training the Model
+
+## Setup
+## Training loop
+
+# Results
+## Training and Validation Loss Curves
+## Model Evaluation on Test Set
+
+# Integration with OpenMM
+
+In the next phase, we will:
+
+- Extend the model to predict forces.
+- Develop a custom force provider in OpenMM.
+- Run MD simulations using the GNN-based force field
+
+# Performance Optimization
+
+Future steps include:
+
+- Profiling the model and simulation performance.
+- Implementing parallelism strategies.
+- Optimizing GPU utilization.
+
+
 
 
