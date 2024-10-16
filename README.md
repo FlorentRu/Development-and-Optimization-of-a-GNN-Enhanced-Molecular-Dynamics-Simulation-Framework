@@ -118,8 +118,8 @@ Analyze performance improvements and accuracy.
 ### Training loop
 
 ## Results
-### Training and Validation Loss Curves
-### Model Evaluation on Test Set
+- Training and Validation Loss Curves
+- Model Evaluation on Test Set
 
 ## Integration with OpenMM
 
